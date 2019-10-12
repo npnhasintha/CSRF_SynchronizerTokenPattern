@@ -1,0 +1,2 @@
+# CSRF_SynchronizerTokenPattern
+CSRF_SynchronizerTokenPattern
